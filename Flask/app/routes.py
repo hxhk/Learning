@@ -1,6 +1,6 @@
 from app import app
 
-#route
+#routes
 @app.route('/')
 @app.route('/index')
 def index():
